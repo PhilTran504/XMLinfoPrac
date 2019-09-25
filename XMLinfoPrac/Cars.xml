@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <cars name="Subaru">
+    <year>2004</year>
+    <model>Impreza WRX</model>
+    <color>White,Black,Blue</color>
+  </cars>
+  <cars name="Porsche">
+    <year>2018</year>
+    <model>Cayman GTS</model>
+    <color>White,Black</color>
+  </cars>
+  <cars name="Toyota">
+    <year>2020</year>
+    <model>Supra</model>
+    <color>Red,White</color>
+  </cars>
+</root>
